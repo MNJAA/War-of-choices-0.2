@@ -12,5 +12,8 @@ I made this thing to improve my coding skills, though I think I can do better bu
 
 Edit: Actually I learned a lot \(^_^)/  
 
+You can run it from this button 
+[![Run on Repl.it](https://replit.com/badge/github/MNJAA/War-of-choices-0.2)](https://replit.com/new/github/MNJAA/War-of-choices-0.2)
+
 @mnjaa , MJ
 
