@@ -30,7 +30,7 @@ def story_select():
 def story_go(ss):
 	print(C,CR)
 	if ss == "1":
-		print(stories.story_1["Chapters"]["Intro"])
+		print(stories.story_1["chapters"]["intro"])
 		sleep(1.5)
 		cn = input(f"{user_name}, do you wanna continue? Y/N: ").upper()
 		print (C, CR)
